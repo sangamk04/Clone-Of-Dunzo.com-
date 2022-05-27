@@ -1,59 +1,121 @@
-# Dunzo
-Hello, hope you are doing well. I am Rounak Abraham a FT-WEB-16 student at Masai School. Currently I am in Unit-3. 
-Its the construct week and me and my teammates Sangam Kumar Singh, Ratnesh Pandey, Neha Kumari, Ravi Bhushan and K Prabina Choudhury cloned the website dunzo.com. 
-Dunzo is an Indian company that delivers groceries and essentials, fruits and vegetables, meat, pet supplies, food, and medicines in major cities.
-We have used HTML, CSS and Java Script to build this website.
-When you visit our website you will directed to the landing page by default. The landing page is made by me. The image below is the screenshot of our landing page:
-![Screenshot (57)](https://user-images.githubusercontent.com/100183222/161419353-80e8c085-2c7f-414a-bf9b-551f74a25a28.png)
+# Clone of Dunzo.com
 
-You need to click on the signin button on the top right corner of the website in order to signin. This is a screenshot of the signin button:
-![Screenshot (59)](https://user-images.githubusercontent.com/100183222/161419679-8b734ea3-dded-4bd6-97e9-ae78c89ff2b0.png)
-
-After you click on the signin button a popup window will appear when you have to enter your phone number. This is a screenshot of the popup window:
-![Screenshot (60)](https://user-images.githubusercontent.com/100183222/161419761-da7d3f9d-2bdf-4db6-a2a6-ae27c1feaa27.png)
-
-After you enter your phone number and accept the terms you can click on the send otp button. 
-After clicking on the send otp button you will have to enter the otp that is hard coded to 123456. This is a screenshot of the otp window:
-![Screenshot (61)](https://user-images.githubusercontent.com/100183222/161419912-a305adbe-1d64-4542-b654-94f0fcdec5e8.png)
-
-After entering the otp click on verify and continue button and your phone number gets added to the local storage. 
-You are signed in now and the signin button changes to profile icon.
-![Screenshot (63)](https://user-images.githubusercontent.com/100183222/161420020-c6db6e0a-8c47-4d99-9df0-5876174c30f1.png)
-
-You can now click on any of the boxes you want to visit like groceries, fruits and vegetables, meat and fish and pan shop.
-If you click on groceries box you will be redirected to the groceries page where can see different grocery stores.This page was created by Sangam Kumar Singh. This is a screenshot of the groceries page:
-![Screenshot (64)](https://user-images.githubusercontent.com/100183222/161420128-93058a4f-6097-42e0-b866-90ea1b1ab111.png)
-
-If you click on any store you will be redirected to the store page. This is a screenshot of the store page:
-![Screenshot (65)](https://user-images.githubusercontent.com/100183222/161420171-a79d3438-c7f5-4c4d-b668-d28469d8f365.png)
-In this page you can browse different item types by clicking on the left of the screen. The items displayed on the center of the screen are updated accordingly.
-When you click on add button the item gets added to cart and is displayed on the right of the screen. This is a screenshot of the page:
-![Screenshot (66)](https://user-images.githubusercontent.com/100183222/161422270-466431d2-c1b6-48e7-8178-cee8b7c9c8a4.png)
-
-When you click on add button of the same item more than once the quantity of the item gets incremented in the cart.
-You can also increase and decrease the quantity of the cart item by clicking on the plus and minus button of the cart items.
-If a particular item quantity is zero then it is removed from the cart.
-When you click on checkout button on the bottom right corner of the page you will be redirected to the payment page.
-Rest of the pages like fruits and vegetables which was made by Neha Kumari, meat and fish which was made by K Prabina Choudhury and pan shop which was made by Ravi Bhushan also have the same functionalities like the groceries page.
-When you go to the payment page there is a button pay using debit/credit card. This is the screenshot of the payment page:
-![Screenshot (67)](https://user-images.githubusercontent.com/100183222/161422655-726dbb36-0f11-405e-9a1c-38aed2612209.png)
-
-When you click on that button a popup window appears where you have to enter your card details. This is the screenshot of the popup window:
-![Screenshot (68)](https://user-images.githubusercontent.com/100183222/161422742-c96b5660-1b23-4e10-86e5-6f8091831bb2.png)
-After entering the card details when you click on save you will be redirected to the generate otp page. This is the screenshot of the generate otp page:
-![Screenshot (70)](https://user-images.githubusercontent.com/100183222/161423299-74753612-12d8-4258-bfe9-d33e600929a0.png)
-
-When you click on generate otp button a random otp will be generate on your screen. You have to note it down and click on ok button. This is the screenshot of the page:
-![Screenshot (72)](https://user-images.githubusercontent.com/100183222/161423474-a977038d-eac8-423c-89bf-81ead0766748.png)
+![image](https://user-images.githubusercontent.com/99814514/170681280-7e60b1c9-1b64-4330-a8ad-90ad4fbb6b65.png)
 
 
-When you click on ok button you will redirected to the verify otp page where you have to enter the same otp you generated earlier.
-In case you enter the wrong otp an alert message will be shown. This is the screenshot of the alert message:
-![Screenshot (71)](https://user-images.githubusercontent.com/100183222/161423385-94d6d1d9-83a0-41ca-8173-399420041cb9.png)
+How I Completed my Journey of Creating a clone of E-Commerce website using HTML ,CSS ,JavaScript
+In this era its a revolutionary on web designing and its on a rush to complete to each other due to of heavy competition. To stay pertinent with the competition and to update yourself in the market its required a well formed website which explains how this company is functioning . All you need to make it big through Websites that is capable of catching and holding onto the user’s attention .
 
-When you enter the correct otp you will receive an alert message to down the receipt. Click on ok button to see receipt. This is a screenshot of the alert message:
-![Screenshot (73)](https://user-images.githubusercontent.com/100183222/161423496-5a03fee1-0c77-46b7-be95-f16d90ba2359.png)
+we have developed a clone project on Delivery in Mumbai — order food & online grocery shopping | Dunzo within 6 days with the help of 6 members, there name is Rounak Abraham , Ravi Bhushan , Ratnesh Pandey , Sangam Kumar Singh , K Prabina Choudhury .
 
-When you click on ok button you will be redirected to the receipt page where you will be able to see the items you ordered, the quantity and the price of each item.
+Basically, this project has been assigned by Masai School and we have given our best to clone the project which were assigned by our institution using concepts which were taught during this journey.
 
-That's all. Thank you.
+So what is Dunzo and what this website provides ?
+Dunzo is an Indian company that delivers groceries and essentials, fruits and vegetables, meat, pet supplies,
+food, and medicines in major cities. It also has a separate service to pick up and deliver packages within the 
+same city. Dunzo currently provides its delivery services in eight Indian cities including Bangalore, Delhi,
+Gurgaon, Pune, Chennai, Jaipur, Mumbai and Hyderabad. The company also operates a bike taxi service in Gurgaon.
+Dunzo is headquartered in Bangalore and was founded in 2014 by Kabeer Biswas along with co-founders Ankur Agarwal,
+Dalvir Suri and Mukund Jha .
+
+Here are some snippet of our cloned website
+
+![image](https://user-images.githubusercontent.com/99814514/170681336-0f650857-08a4-453f-994e-656b03441a79.png)
+![image](https://user-images.githubusercontent.com/99814514/170681403-cea557bf-463d-4820-bc27-e77fde67223b.png)
+
+
+This is our landing page . Here we can find all the related details .
+
+![image](https://user-images.githubusercontent.com/99814514/170681364-4720fd6d-9706-4eaa-a40d-9eda64f886bf.png)
+
+
+This is our pop up Sign in page . Here we can create our account by simply entering our Mobile number . 
+After entering mobile number we get an OTP and after verifying an OTP , our account is created .
+
+![image](https://user-images.githubusercontent.com/99814514/170681495-d345758d-34db-4142-b0e1-aed89a8aa3bd.png)
+![image](https://user-images.githubusercontent.com/99814514/170681476-edd408b3-5896-4630-88bc-626f6088ec22.png)
+
+
+Here we can add our details like save our address , account setting and also we can add our card details for later 
+use. We can also find order list here .
+
+![image](https://user-images.githubusercontent.com/99814514/170681545-e75cfe8b-7198-43bf-8fc9-30172dcab5e6.png)
+
+
+This is our groceries page . Here we can find shops which have groceries items . We can order groceries from these shops .
+
+![image](https://user-images.githubusercontent.com/99814514/170681583-30f04923-c7ec-4ddb-ab5d-b72cba1e0c4a.png)
+
+
+This is our Fruits and Vegetables page . Here we can find shops which have Fruits and Vegetables items . We can
+order items from these shops .
+
+![image](https://user-images.githubusercontent.com/99814514/170681616-60d7dd71-c672-48a8-aded-ef1dbb218772.png)
+
+
+This is our Meat and Fish page . Here we can find shops which have Meat and Fish . We can order from these shops.
+
+![image](https://user-images.githubusercontent.com/99814514/170681660-3a9741c4-8190-417d-a8e7-9fac6f1dfdf1.png)
+
+
+This is our Paan page . Here we can find shops which have Paan. We can order Paan from these shops.
+
+![image](https://user-images.githubusercontent.com/99814514/170681685-2c95948c-a4c2-4592-ac31-ca214e7f1e8f.png)
+![image](https://user-images.githubusercontent.com/99814514/170681712-fa0c869a-aaf1-4d1b-a3fd-6639c73f8aac.png)
+![image](https://user-images.githubusercontent.com/99814514/170681734-19be5118-9a39-4e91-b9b7-21cbf5bd6c98.png)
+
+
+
+
+In these page we can select items and quantity and add it to the cart . Items which are added to the cart is 
+showing on the right side . We can add or remove items from cart by using plus and minus button . Total cost 
+is showing in the checkout button . After clicking on checkout button we simply redirected to the payment page .
+
+![image](https://user-images.githubusercontent.com/99814514/170681761-5c44d856-0abb-4469-b348-855ee1a121e9.png)
+![image](https://user-images.githubusercontent.com/99814514/170681829-d56cb0d7-9cf2-4cef-bd82-ca0254943d83.png)
+![image](https://user-images.githubusercontent.com/99814514/170681846-75608193-1984-496e-88bb-47d857cc866a.png)
+![image](https://user-images.githubusercontent.com/99814514/170681870-033ad054-7780-43bd-9fd2-6a45df93f43f.png)
+
+
+
+
+If card details is not saved . Here we can enter our card details . After submitting card details we get a pop
+page to generate an OTP . And after Validating we get an alert message that show our payment is successful and 
+we can download the receipt.
+
+![image](https://user-images.githubusercontent.com/99814514/170681921-8f889365-6e94-4827-92cb-a3b377cb13c3.png)
+
+This is the receipt which have details about the items we have purchased .
+
+Challenges which we faced during cloning this project -
+Very new to the Github Platform which has created some confusion.
+Making pixel perfect as well as responsive was the real challenge.
+Collecting data in this website was hard to get .
+Time management was quite hard .
+Learning Outcome
+We learnt how to do project in team
+We have also learnt some new concept .
+Over all out come
+Me and my team really thankful for Masai School with the bottom of our heart for providing and teaching us 
+such skill which has created a good confidence in us.
+
+Thanks to giving us this project through which we can see our progressed so far after joining Masai School ,
+which shows a huge difference on our skill and we hope we will learn more skill and develop more websites in future .
+
+Once again we all thank to Masai School for this wonderful experience.
+
+Team:-
+
+01. Sangam Kumar Singh
+
+02. Ravi Bhushan
+
+03. Rounak Abraham
+
+04. K Prabian Chudhary
+
+05. Ratnesh Pandey
+
+06. Neha Kumari
+
+Thanks for Reading..........
