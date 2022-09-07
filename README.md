@@ -1,29 +1,12 @@
 # Clone of Dunzo.com
-Link:- https://sparkly-cheesecake-336e1f.netlify.app/
+Link:-https://stirring-mandazi-87d93f.netlify.app/
 
 ![image](https://user-images.githubusercontent.com/99814514/170681280-7e60b1c9-1b64-4330-a8ad-90ad4fbb6b65.png)
 
 
-How I Completed my Journey of Creating a clone of E-Commerce website using HTML ,CSS ,JavaScript
-In this era its a revolutionary on web designing and its on a rush to complete to each other due to of heavy 
-competition. To stay pertinent with the competition and to update yourself in the market its required a well formed 
-website which explains how this company is functioning . All you need to make it big through Websites that is capable
-of catching and holding onto the user’s attention .
 
-we have developed a clone project on Delivery in Mumbai — order food & online grocery shopping | Dunzo within 6 
-days with the help of 6 members, there name is Rounak Abraham , Ravi Bhushan , Ratnesh Pandey , Sangam Kumar Singh , 
-K Prabina Choudhury .
 
-Basically, this project has been assigned by Masai School and we have given our best to clone the project which were
-assigned by our institution using concepts which were taught during this journey.
 
-So what is Dunzo and what this website provides ?
-Dunzo is an Indian company that delivers groceries and essentials, fruits and vegetables, meat, pet supplies,
-food, and medicines in major cities. It also has a separate service to pick up and deliver packages within the 
-same city. Dunzo currently provides its delivery services in eight Indian cities including Bangalore, Delhi,
-Gurgaon, Pune, Chennai, Jaipur, Mumbai and Hyderabad. The company also operates a bike taxi service in Gurgaon.
-Dunzo is headquartered in Bangalore and was founded in 2014 by Kabeer Biswas along with co-founders Ankur Agarwal,
-Dalvir Suri and Mukund Jha .
 
 Here are some snippet of our cloned website
 
