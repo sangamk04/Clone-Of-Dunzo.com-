@@ -1,4 +1,10 @@
 # Clone of Dunzo.com
+
+
+DISCLAIMER: THIS PAGE WAS MADE AS A PERSONAL EDUCATIONAL PROJECT. This is NOT the official site of the company or brand identified on the page. The creator of this page is NOT affiliated with the company or brand in any way. This page is a personal project made in connection with an educational exercise.
+
+
+
 Link:-https://stirring-mandazi-87d93f.netlify.app/
 
 ![image](https://user-images.githubusercontent.com/99814514/170681280-7e60b1c9-1b64-4330-a8ad-90ad4fbb6b65.png)
